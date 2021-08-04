@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/weave-card-app/static/css/main.19a0c6b9.chunk.css",
+    "main.css": "/weave-card-app/static/css/main.e196a1d8.chunk.css",
     "main.js": "/weave-card-app/static/js/main.0ec1c150.chunk.js",
     "main.js.map": "/weave-card-app/static/js/main.0ec1c150.chunk.js.map",
     "runtime-main.js": "/weave-card-app/static/js/runtime-main.92dea9ab.js",
@@ -10,7 +10,7 @@
     "static/js/3.d20a8003.chunk.js": "/weave-card-app/static/js/3.d20a8003.chunk.js",
     "static/js/3.d20a8003.chunk.js.map": "/weave-card-app/static/js/3.d20a8003.chunk.js.map",
     "index.html": "/weave-card-app/index.html",
-    "static/css/main.19a0c6b9.chunk.css.map": "/weave-card-app/static/css/main.19a0c6b9.chunk.css.map",
+    "static/css/main.e196a1d8.chunk.css.map": "/weave-card-app/static/css/main.e196a1d8.chunk.css.map",
     "static/js/2.b71921c7.chunk.js.LICENSE.txt": "/weave-card-app/static/js/2.b71921c7.chunk.js.LICENSE.txt",
     "static/media/architect.jpg": "/weave-card-app/static/media/architect.06f282b7.jpg",
     "static/media/assassin.jpg": "/weave-card-app/static/media/assassin.2114b6ff.jpg",
@@ -41,7 +41,7 @@
   "entrypoints": [
     "static/js/runtime-main.92dea9ab.js",
     "static/js/2.b71921c7.chunk.js",
-    "static/css/main.19a0c6b9.chunk.css",
+    "static/css/main.e196a1d8.chunk.css",
     "static/js/main.0ec1c150.chunk.js"
   ]
 }
